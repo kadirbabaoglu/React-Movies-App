@@ -4,7 +4,6 @@ import Badge from 'react-bootstrap/Badge';
 
 
 const MovieList = (props) => {
-   console.log(props)
    
     return (
 
